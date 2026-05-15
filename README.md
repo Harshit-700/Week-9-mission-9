@@ -2,7 +2,7 @@
 
 The Data Hub is a RESTful API server built using Node.js and Express.js. The project focuses on backend architecture and API development, allowing users to create, read, update, and delete blog posts through HTTP requests. It simulates a lightweight backend service using an in-memory database and follows standard REST principles.
 
-🔗 Live Demo: *Add your deployed link here*
+🔗 Live Demo: https://week-9-mission-9-3.onrender.com
 
 📸 Screenshot
 ![img alt](https://github.com/Harshit-700/Week-9-mission-9/blob/522632ca17fb5001b2e6d05c8448852421e8ea55/Screenshot%20(432).png)
